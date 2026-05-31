@@ -12,8 +12,8 @@
 ┌──────────────────────────────────────────────────────┐
 │                  React Trading UI                     │
 │  ┌──────────┐ ┌──────────┐ ┌────────────────────┐   │
-│  │ PriceChart│ │TradePanel│ │  PositionCard       │   │
-│  │ (Chart.js)│ │Long/Short│ │  PnL · Health · Liq│   │
+│  │ TradingView│ │TradePanel│ │  PositionCard       │   │
+│  │ (Live Data)│ │Long/Short│ │  PnL · Health · Liq│   │
 │  └──────────┘ └──────────┘ └────────────────────┘   │
 │           ↕ Anchor RPC via @coral-xyz/anchor          │
 ├──────────────────────────────────────────────────────┤
