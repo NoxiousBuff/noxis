@@ -113,7 +113,7 @@ npm run dev
 ```
 
 Then:
-1. Open `http://localhost:5173`
+1. Open `[https://noxis-b667.vercel.app/]`
 2. Connect Phantom (devnet)
 3. Click **Quick Setup** → auto-creates USDC mint, initializes market, funds vault
 4. Deposit collateral → Open a 5x long or short
