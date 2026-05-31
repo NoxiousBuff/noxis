@@ -1,0 +1,59 @@
+main {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+section {
+  margin-top: 18px;
+  padding: 16px;
+  border: 1px solid #243244;
+  background: #101720;
+}
+
+h1,
+h2,
+p {
+  margin: 0 0 12px;
+}
+
+button {
+  margin: 6px 8px 6px 0;
+  padding: 10px 12px;
+  border: 1px solid #31445c;
+  background: #172234;
+  color: #eef5ff;
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+input {
+  width: 140px;
+  margin: 6px 12px 6px 4px;
+  padding: 9px;
+  border: 1px solid #31445c;
+  background: #0b0f14;
+  color: #eef5ff;
+}
+
+label {
+  margin-left: 8px;
+}
+
+pre {
+  min-height: 180px;
+  white-space: pre-wrap;
+  overflow: auto;
+  color: #93f5b1;
+}
